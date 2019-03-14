@@ -19,5 +19,6 @@ function iLoveTheBeatles(num){
   var newArr = [];
   do {
     newArr.push("I love the Beatles!");
+    num++;
   } while (true);
 }
